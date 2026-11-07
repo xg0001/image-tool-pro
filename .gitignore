@@ -1,0 +1,5 @@
+# no source code in this repo
+*.py
+*.ico
+dist/
+requirements.txt
