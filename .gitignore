@@ -1,5 +1,11 @@
-# no source code in this repo
+# 源码、依赖清单与构建产物一律不入库
 *.py
+*.pyw
+*.pyc
+*.spec
+requirements.txt
 *.ico
 dist/
-requirements.txt
+build/
+__pycache__/
+*.log
