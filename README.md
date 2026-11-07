@@ -20,7 +20,7 @@
 
 ## 下载
 
-前往 **[Releases 下载页](https://github.com/xg0001/image-tool-pro/releases/latest)** 下载 `图片处理工具专业版.exe`，双击运行即可。
+前往 **[Releases 下载页](https://github.com/xg0001/image-tool-pro/releases/latest)** 下载 `ImageToolPro-v1.0.exe`，双击运行即可（下载后如需中文文件名，可自行重命名）。
 
 - 适用系统：Windows 10 / 11 64 位
 - 无需安装 Python 或任何依赖
